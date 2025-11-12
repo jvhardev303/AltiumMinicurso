@@ -1,0 +1,163 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Página-1" id="QB7sC16szpMSXDgm7gP7">
+    <mxGraphModel dx="1678" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-1" value="Definição de requisitos do projeto" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="90" y="220" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-2" value="Esboço/rascunho do circuito eletrônico" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="370" y="220" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-3" value="Seleção de componentes e adição na biblioteca" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="640" y="220" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-4" value="Criação de desenvolvimento do esquemático" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="900" y="220" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-5" value="Simulaçao do circuito quando possível" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="900" y="390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-6" value="Geração da BOM (Bill of Materials)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="640" y="390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-7" value="Criação e desenvolvimento da PCB" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="370" y="390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-8" value="Correção e validação &lt;br&gt;do projeto" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="90" y="390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-9" value="Fabricação da PCB" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="640" y="560" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-10" value="Ensaios e testes &lt;br&gt;de qualidade" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="370" y="560" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-11" value="Certificação da PCB" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="900" y="560" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;" parent="1" source="ImHNmzBMdEHeN45R-6RP-1" target="ImHNmzBMdEHeN45R-6RP-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="270" as="sourcePoint" />
+            <mxPoint x="330" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="269.47" as="sourcePoint" />
+            <mxPoint x="640" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="269.47" as="sourcePoint" />
+            <mxPoint x="900" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;" parent="1" source="ImHNmzBMdEHeN45R-6RP-4" target="ImHNmzBMdEHeN45R-6RP-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="330" as="sourcePoint" />
+            <mxPoint x="980" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;" parent="1" source="ImHNmzBMdEHeN45R-6RP-5" target="ImHNmzBMdEHeN45R-6RP-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="370" as="sourcePoint" />
+            <mxPoint x="960" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;" parent="1" source="ImHNmzBMdEHeN45R-6RP-6" target="ImHNmzBMdEHeN45R-6RP-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="450" as="sourcePoint" />
+            <mxPoint x="690" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;" parent="1" source="ImHNmzBMdEHeN45R-6RP-7" target="ImHNmzBMdEHeN45R-6RP-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="430" as="sourcePoint" />
+            <mxPoint x="410" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ImHNmzBMdEHeN45R-6RP-8" target="ZAW7iUmQL0I0Ze9lZlKc-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="540" as="sourcePoint" />
+            <mxPoint x="180" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ImHNmzBMdEHeN45R-6RP-10" edge="1" target="ImHNmzBMdEHeN45R-6RP-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="610" as="sourcePoint" />
+            <mxPoint x="630" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;" parent="1" source="ImHNmzBMdEHeN45R-6RP-9" target="ImHNmzBMdEHeN45R-6RP-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="610" as="sourcePoint" />
+            <mxPoint x="960" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-23" value="Definição de &lt;br&gt;requisitos do projeto" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="90" y="220" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-24" value="Esboço/rascunho do circuito eletrônico" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="370" y="220" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-25" value="Seleção de componentes &lt;br&gt;e adição &lt;br&gt;na biblioteca" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="640" y="220" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-26" value="Criação e desenvolvimento do esquemático" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="900" y="220" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-27" value="Simulaçao do circuito quando possível" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="900" y="390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-28" value="Geração da BOM &lt;br&gt;(Bill of Materials)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="640" y="390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-29" value="Criação e desenvolvimento da PCB" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="370" y="390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-33" value="Fluxograma de um projeto de PCB" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=ISOCPEUR;fontSize=55;fontColor=light-dark(#858585,#6A6A6A);" parent="1" vertex="1">
+          <mxGeometry x="210" y="50" width="750" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="790" as="sourcePoint" />
+            <mxPoint x="40" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="40" as="sourcePoint" />
+            <mxPoint x="40" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-36" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="790" as="sourcePoint" />
+            <mxPoint x="40" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-37" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="790" as="sourcePoint" />
+            <mxPoint x="1130" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImHNmzBMdEHeN45R-6RP-39" value="&lt;font face=&quot;ISOCPEUR&quot;&gt;Fornecido por: João Vitor Ramos Mitidiero&lt;br&gt;GitHub:&amp;nbsp;&lt;a href=&quot;https://github.com/jvhardev303&quot;&gt;https://github.com/jvhardev303&lt;/a&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="750" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAW7iUmQL0I0Ze9lZlKc-4" value="Documentação" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=ISOCPEUR;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZAW7iUmQL0I0Ze9lZlKc-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=ISOCPEUR;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZAW7iUmQL0I0Ze9lZlKc-4" target="ImHNmzBMdEHeN45R-6RP-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="609.58" as="sourcePoint" />
+            <mxPoint x="360" y="609.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
